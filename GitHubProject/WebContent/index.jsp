@@ -7,6 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-<h1>처음 만드는 깃 공유</h1>
+<h1>애정이 하이루방가루</h1>
 </body>
 </html>
